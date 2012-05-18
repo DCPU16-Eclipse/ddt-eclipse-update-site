@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.kokakiwi.eclipse.ddt_0.1.0.201205171305.jar" id="com.kokakiwi.eclipse.ddt" version="0.1.0.201205171305">
+      <category name="com.kokakiwi.eclipse.ddt"/>
+   </feature>
+   <category-def name="com.kokakiwi.eclipse.ddt" label="DCPU16 Developer Toolkit"/>
+</site>
